@@ -104,7 +104,12 @@ string Replace(string text, char oldValue, char newValue)
     Console.WriteLine(NewText);*/
 
 
-    int[] arr = {1, 5, 87, 5, 85, 7, 5, 5, 87, 8, 6, 9, 2, 54, 4};
+int[] arr = new int[20];
+Random rand = new Random();
+for (int y = 0; y < 20; y++)
+{
+     arr[y] = rand.Next(1, 21);
+}
 
     void PrintArray(int[] array)
     {
