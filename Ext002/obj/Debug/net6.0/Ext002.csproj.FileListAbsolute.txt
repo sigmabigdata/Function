@@ -1,0 +1,15 @@
+D:\Git\Projects\Function\Ext002\bin\Debug\net6.0\Ext002.exe
+D:\Git\Projects\Function\Ext002\bin\Debug\net6.0\Ext002.deps.json
+D:\Git\Projects\Function\Ext002\bin\Debug\net6.0\Ext002.runtimeconfig.json
+D:\Git\Projects\Function\Ext002\bin\Debug\net6.0\Ext002.dll
+D:\Git\Projects\Function\Ext002\bin\Debug\net6.0\Ext002.pdb
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.csproj.AssemblyReference.cache
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.AssemblyInfoInputs.cache
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.AssemblyInfo.cs
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.csproj.CoreCompileInputs.cache
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.dll
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\refint\Ext002.dll
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.pdb
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\Ext002.genruntimeconfig.cache
+D:\Git\Projects\Function\Ext002\obj\Debug\net6.0\ref\Ext002.dll
